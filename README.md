@@ -1,2 +1,2 @@
 # castle
-"The Castle" in poetry.
+Kafka's "The Castle" in Spenserian stanzas.
