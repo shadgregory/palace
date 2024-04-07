@@ -108,6 +108,7 @@ his nonchalance, announced his plans without yelling.
 # scan outran began can fan ban than
 #   ×  /  ×   /     ×   /     ×   /     ×   /
 # When I do count the clock that tells the time
+#+begin_verse
 "Now, if it is permission that I need,"
 Said K. "Then it is permission I seek."
 And as if he were about to proceed,
@@ -117,8 +118,9 @@ At the shocked crowd, barely able to speak.
 "At this midnight hour?" he said with a shreik.
 "It isn't possible?" and K. began
 To yawn, "Why did you wake up a slumbering man?"
-* 9
+#+end_verse
 
+* 9
 <2024-03-20 Wed>
 <2024-03-22 Fri>
 <2024-03-24 Sun>
@@ -126,6 +128,7 @@ To yawn, "Why did you wake up a slumbering man?"
 <2024-03-29 Fri>
 # rage page age sage wage stage cage dory glory sory
 # sum from come dumb crumb plum glum drum scum hum
+#+begin_verse
 The young man was beside himself with rage,
 "Why you're not but a low-down dirty bum!"
 With a passion found only on the stage.
@@ -135,8 +138,10 @@ You must depart the count's territory
 At once!" At this, K. was able to drum
 Up the peace of a saint in God's glory
 "Enough!" he said and K. then began his story.
+#+end_verse
 
 * Interlude
+#+begin_verse
 Does K. feel despair? Does he cry in the night?
 Is he so fixated on his mission
 That he no longer dreads the morning light?
@@ -146,3 +151,26 @@ Without a companion to help him through
 The snow and darkness with precision.
 Where is his family? Are they so few
 That K. was attracted to the castle in view?
+#+end_verse
+
+* 11
+<2024-04-02 Tue>
+<2024-04-04 Thu>
+# gentlemen when den then men again hen
+# mount fount account amount surmount
+# player mayor prayer layor
+#+begin_verse
+"I've had enough of your nonsense." said K,
+"The Innkeeper and these good gentlemen
+Are my witnesses should I need to sway
+A jury of my peers. I take it then
+You would like to know why I am here in
+Your village. I am the land surveyor
+Sent for by the Count. Now there, you see when
+I saw the snow, layer upon layer,
+I sat out on the trek after a hopeful prayer.
+#+end_verse
+
+* 12
+#+begin_verse
+#+end_verse
