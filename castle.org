@@ -71,15 +71,15 @@ He cried, "Castle you say? But there was not one in sight."
 <2024-02-26 Mon>
 <2024-03-02 Sat>
 #+begin_verse
-The young man was astonished by K.'s act,
-"Why indeed,the castle of Count Westwest!"
-"And you need permission," asked K. "in fact
-For a weary travellor to simply rest
-Overnight?" at last upon being press'd
-By the expecting crowd. Was it a dream
-That gave to him the notion that a guest
-Could be cruelly turned out? Truly it seem'd
-To beggar belief. Such cruelty K. could not gleam.
+  The young man was astonished by K.'s act,
+  "Why indeed, the castle of Count Westwest!"
+  "And you need the Count's permission, in fact,
+  For a weary travellor to simply rest
+  Overnight?" asked K. upon being press'd
+  By the expecting crowd. Was it a dream
+  That gave to him the notion that a guest
+  Could be so cruelly turned out? It did seem
+  To beggar belief. Such cruelty K. could not gleam.
 #+end_verse
 * 7
 <2024-03-02 Sat>
@@ -182,7 +182,19 @@ That I knew it was too late in the day
 To report to the castle in my state.
 This is why I chose to accept my fate
 And make do with camping out on the floor
-Here in the corner as much as I hate
+Here in the corner. As much as I hate
 To give up the comforts of a locked door
 And a sweet bed, I knew my sleep would not be poor.
+#+end_verse
+
+* 13
+<2024-04-07 Sun>
+# drive contrive strive
+# stow so below
+#+begin_verse
+A Tommorrow my assistants will arrive
+B Via carriage with the equipment in tow.
+A Now that's all that I'm willing to contrive
+B As far as an explanation will go.
+B 
 #+end_verse
