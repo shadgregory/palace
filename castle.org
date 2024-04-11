@@ -189,12 +189,19 @@ And a sweet bed, I knew my sleep would not be poor.
 
 * 13
 <2024-04-07 Sun>
+<2024-04-09 Tue>
+<2024-04-10 Wed>
 # drive contrive strive
-# stow so below
+# stow so below snow blow
+# height light
 #+begin_verse
-A Tommorrow my assistants will arrive
-B Via carriage with the equipment in tow.
-A Now that's all that I'm willing to contrive
-B As far as an explanation will go.
-B 
+"Tommorrow my assistants will arrive
+Via carriage with the equipment in tow.
+Now that's all that I'm willing to contrive
+As far as an explanation will go.
+Now goodnight gentlemen and go pound snow!"
+K. turned to the stove and pulled his blanket tight.
+The Inn's mob retreated after K.'s show,
+Confused by this information's new light,
+They conversed in hushed tones while keeping K.in sight.
 #+end_verse
