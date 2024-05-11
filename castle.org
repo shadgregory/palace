@@ -1,6 +1,9 @@
 #+BEGIN_COMMENT
 Spenserian stanza ababbcbcc
 #+END_COMMENT
+* Characters
+** die Wirtin - the hostess
+** der Wirt - the innkeeper
 * 1
 #+BEGIN_VERSE
 When K. arrived, it was late in the night,
@@ -8,7 +11,7 @@ The village was covered under deep snow,
 And the castle hill was nowhere in sight.
 Fog and darkness enveloped him and though
 The sky's faintest glow of light could not show
-The outline of the great castle, K. stood
+The outline of the great Palace, K. stood
 On the wooden bridge, the darkness below,
 The seeming emptiness was understood
 To offer our hero the start of something good.
@@ -43,9 +46,9 @@ Big deal, and he was not trying to be witty!
 * 4
 <2024-02-20 Tue>
 #+begin_verse
-A big deal indeed, the son of the Castle
+A big deal indeed, the son of the Palace
 Steward stood over K., his eyebrows strong,
-He was polite but ready to hassle
+Ready to torment with polite malice
 Our poor K. over his excursion along
 The village's outskirts lurking among
 The shadows and darkness of the late hour.
@@ -72,7 +75,7 @@ He cried, "Palace you say? But there was not one in sight."
 <2024-03-02 Sat>
 #+begin_verse
 The young man was astonished by K.'s act,
-"Why indeed, the Castle of Count Westwest!"
+"Why indeed, the Palace of Count Westwest!"
 "And you need the Count's permission, in fact,
 For a weary travellor to simply rest
 Overnight?" asked K. upon being press'd
@@ -150,7 +153,7 @@ Travelled so far on this expedition
 Without a companion to help him through
 The snow and darkness with precision.
 Where is his family? Are they so few
-That K. was attracted to the castle in view?
+That K. was attracted to the palace in view?
 #+end_verse
 
 * 11
@@ -179,7 +182,7 @@ I sat out on the trek after a hopeful prayer.
 But, unfortunately, I lost my way
 More than a few times and arrived so late
 That I knew it was too late in the day
-To report to the Castle in my state.
+To report to the Palace in my state.
 This is why I chose to accept my fate
 And make do with camping out on the floor
 Here in the corner. As much as I hate
@@ -218,7 +221,7 @@ The young man, eager to show off his worth,
 And now determined to finish the job,
 Whispered in a tone so as not to rob
 K. of his sleep but loud enough to hear
-"I'll call the Castle, ask about this slob,
+"I'll call the Palace, ask about this slob,
 And check his story." he said with a sneer.
 He headed to the phone and brought it close to his ear.
 * 15
@@ -250,5 +253,20 @@ And waited for the young man to find how
 To inquire without disrupting K.'s sleep.
 Across the way the dim light did allow
 K. to see the bauern together deep
-In discussion and tightly piled in a heap.
+In discussion, in a corner, piled in a heap.
 
+* 17
+<2024-04-28 Sun>
+<2024-05-08 Wed>
+<2024-05-11 Sat>
+# blues choose say away delay clay way gay bay Landvermesser
+# pay die Wirtin der Wirt warm norm uniform storm
+K.'s arrival was no trivial news.
+Surveyors don't pop up every day!
+Every landlord had something to lose
+If the Count changed the lines any old way.
+The kitchen door was opened all the way,
+And it's frame filled by the landlady's form.
+The host, eager to report on the fray,
+Tiptoed in her direction to inform
+The mighty Landlady of the incoming storm.
