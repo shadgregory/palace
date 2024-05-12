@@ -179,7 +179,7 @@ I sat out on the trek after a hopeful prayer.
 # state fate great date hate debate weight gate abate indicate plate
 # roar door more sore before wore poor
 #+begin_verse
-But, unfortunately, I lost my way
+"But, unfortunately, I lost my way
 More than a few times and arrived so late
 That I knew it was too late in the day
 To report to the Palace in my state.
@@ -187,7 +187,7 @@ This is why I chose to accept my fate
 And make do with camping out on the floor
 Here in the corner. As much as I hate
 To give up the comforts of a locked door
-And a sweet bed, I knew my sleep would not be poor.
+And a sweet bed, I knew my sleep would not be poor."
 #+end_verse
 
 * 13
