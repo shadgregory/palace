@@ -215,6 +215,7 @@ They conversed in hushed tones while keeping K.in sight.
 # worth birth earth north
 # dear steer cheer near here appear ear sneer
 # job slob mob fob rob
+#+begin_verse
 "Surveyor?" the word was tossed back and forth,
 And then a silence fell over the mob.
 The young man, eager to show off his worth,
@@ -224,6 +225,8 @@ K. of his sleep but loud enough to hear
 "I'll call the Palace, ask about this slob,
 And check his story." he said with a sneer.
 He headed to the phone and brought it close to his ear.
+#+end_verse
+
 * 15
 <2024-04-13 Sat>
 <2024-04-24 Wed>
@@ -231,6 +234,7 @@ He headed to the phone and brought it close to his ear.
 # b groan thrown own tone bone drone flown known alone
 # brook'd ababbcbcc
 # c sing ding ring swing king cling
+#+begin_verse
 "Good Goddamn!" thought K. to himself, "This place
 Is decked out to the nines! They have a phone?"
 Said telephone was crowded in a space
@@ -240,11 +244,14 @@ In overlooking the infernal thing.
 Now K.'s restful sleep was sure to be blown
 By the eager fellow's attempt to ring
 The Palace. And now poor K. had to hear him sing.
+#+end_verse
+
 * 16
 <2024-04-26 Fri>
 <2024-04-28 Sun>
 # merit, spirit, basket
 # allow how bow wow scow now brow
+#+begin_verse
 Then the question was, would K. allow it?
 He decided to allow it, but now
 It was the case he could find no merit
@@ -254,6 +261,7 @@ To inquire without disrupting K.'s sleep.
 Across the way the dim light did allow
 K. to see the bauern together deep
 In discussion, in a corner, piled in a heap.
+#+end_verse
 
 * 17
 <2024-04-28 Sun>
@@ -261,6 +269,7 @@ In discussion, in a corner, piled in a heap.
 <2024-05-11 Sat>
 # blues choose say away delay clay way gay bay Landvermesser
 # pay die Wirtin der Wirt warm norm uniform storm
+#+begin_verse
 K.'s arrival was no trivial news.
 Surveyors don't pop up every day!
 Every landlord had something to lose
@@ -270,3 +279,21 @@ And it's frame filled by the landlady's form.
 The host, eager to report on the fray,
 Tiptoed in her direction to inform
 The mighty Landlady of the incoming storm.
+#+end_verse
+
+*18
+<2024-05-12 Sun>
+<2024-05-18 Sat>
+# can plan than man fan span deep creep cheap keep sweep weep leap
+# clan plan can span wan deadpan ran began
+#+begin_verse
+The telephone conversation began.
+The Palace Governor was sound asleep,
+But one of his lackeys was the night man,
+A certain Herr Fritz, who was known to keep
+Some abysmally late hours sometimes deep
+Into the night, was awake. The young man,
+Going by Schwarzer, proceeded to leap
+Into how he had found K., worn and wan,
+Sleeping on a dirty straw sack, so he began.
+#+end_verse
