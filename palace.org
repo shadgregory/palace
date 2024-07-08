@@ -298,7 +298,7 @@ Into how he had found K., worn and wan,
 Sleeping on a dirty straw sack, so he began.
 #+end_verse
 
-*19
+* 19
 <2024-05-18 Sat>
 <2024-05-28 Tue>
 # hymn dim limb beauty grim moody booty
@@ -309,11 +309,27 @@ Sleeping on a dirty straw sack, so he began.
 Of course, Schwarzer was suspicious of him!
 The landlord had neglected his duty;
 And so the burden was his to, with grim
-Determination, check out K.'s beauty
+Determinati1on, check out K.'s beauty
 Of a tale. Awakening K.'s booty 
 From a deep sleep, his interrogation
 Of the man while he endured K.s snooty
 Attitude, and threw his accusation
 At K., along with expulsion from the nation.
-At K,, and the threat of expulsion 9
+#+end_verse
+
+* 20
+<2024-06-01 Sat>
+<2024-06-15 Sat>
+# latitude attitude stood good solitude ingratitude
+# sea he glee see she three bee free report short sort court
+#+begin_verse
+aSchwarzer was shocked by K's ingratitude.
+bPerhaps rightly so, since K. claimed to be
+aA surveyor appointed to the good
+bBy the Count his very own self and we
+bCan all assume that it's Scwarzer's duty
+cTo verify K.'s claim, and so for sure
+bHe was going to ask Mr. Fritz to see
+c
+c
 #+end_verse
