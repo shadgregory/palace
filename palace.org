@@ -352,7 +352,7 @@ Could they send K. flying out with a stern
 Flogging? And K.? He kept his poker face
 Firmly intact and determined to earn
 His spot with the rats in the Palace's race.
-He stayed stoic; his mask firmly in place.
+He stayed stoic, steadfast; his mask firmly in place.
 #+end_verse
 
 * 22
@@ -369,6 +369,20 @@ And slammed down the receiver, "A liar-in-chief!
 Nobody has heard of this surveyor!"
 K. dove under his blanket in the belief
 That Schwarzer, bauren, and everyone there
-Would pounce upon poor K. without a care.
+Would pounce upon poor K. right there without a care.
+#+end_verse
+
+* 23
+<2024-12-15 Sun>
+#+begin_verse
+He waited for the assault with unease,
+Under the blanket K. said a small prayer,
+When the phone rang again it seemed to squeeze
+the soul out of poor K. as he lay there.
+He slowly poked his head out, with great care
+And then watched Schwarzer return to the phone,
+Meekly allowing the caller to share
+A long story that led Schwarzer to groan,
+"Mistake? How can I explain this all on my own?"
 #+end_verse
 
