@@ -1,5 +1,6 @@
 #+BEGIN_COMMENT
 Spenserian stanza ababbcbcc
+C-c C-, begin block structure
 #+END_COMMENT
 * Characters
 ** die Wirtin - the hostess
@@ -386,3 +387,31 @@ A long story that led Schwarzer to groan,
 "Mistake? How can I explain this all on my own?"
 #+end_verse
 
+* 24
+<2024-12-17 Tue>
+#+BEGIN_COMMENT
+»Ein Irrtum also? Das
+ist mir recht unangenehm. Der Bürochef selbst hat telefoniert? Sonderbar,
+sonderbar. Wie soll ich es dem Herrn Landvermesser erklären?«
+
+"A mistake, then? That
+is quite unpleasant for me. The office manager himself made a phone call? Strange
+strange. How am I to explain it to the surveyor?"
+
+below so go slow show blow
+fall all intellectual crawl
+small tall wall mathematical additional
+plight bright night
+#+END_COMMENT
+
+#+begin_verse
+"This puts me in quite a pickle, you know,
+And the office manager made the call?"
+K. listened to this telephonic show
+With great interest. Had the Palace all
+but yielded to K. without even a brawl?
+K. felt hope, saw light where there was no light
+Before. Was the Palace totally in thrall
+To its own power that it had lost sight
+Of the freedom that K. would enjoy in the fight?
+#+end_verse
