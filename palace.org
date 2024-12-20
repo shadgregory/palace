@@ -415,3 +415,17 @@ Before. Was the Palace totally in thrall
 To its own power that it had lost sight
 Of the freedom that K. would enjoy in the fight?
 #+end_verse
+
+# pen men then shock rock lock flock clock
+# hawk talk block smile trial while style
+#+begin_verse
+But then, K. began to reflect again,
+Perhaps the keen Palace had taken stock
+Of him and, finding him wanting, had then
+Likened him to Sisyphus and his rock,
+A sad figure racing against the clock,
+Suddenly the Palace had, with a smile,
+Taken up the struggle to perhaps block
+K.; His effort to join the village while
+Enjoying a Palace job while living in style.
+#+end_verse
