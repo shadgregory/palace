@@ -427,5 +427,5 @@ A sad figure racing against the clock,
 Suddenly the Palace had, with a smile,
 Taken up the struggle to perhaps block
 K.; His effort to join the village while
-Enjoying a Palace job while living in style.
+Enjoying a Palace job and living in style.
 #+end_verse
