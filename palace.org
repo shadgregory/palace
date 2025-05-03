@@ -1,3 +1,4 @@
+#+DATE: Time-stamp:
 #+BEGIN_COMMENT
 Spenserian stanza ababbcbcc
 C-c C-, begin block structure
@@ -5,6 +6,7 @@ C-c C-, begin block structure
 * Characters
 ** die Wirtin - the hostess
 ** der Wirt - the innkeeper
+** der Graf - the Count
 * 1
 #+BEGIN_VERSE
 When K. arrived, it was late in the night,
@@ -310,7 +312,7 @@ Sleeping on a dirty straw sack, so he began.
 Of course, Schwarzer was suspicious of him!
 The landlord had neglected his duty;
 And so the burden was his to, with grim
-Determinati1on, check out K.'s beauty
+Determination, check out K.'s beauty
 Of a tale. Awakening K.'s booty 
 From a deep sleep, his interrogation
 Of the man while he endured K.s snooty
@@ -578,10 +580,120 @@ the error and shortcomings of my own b
 Beliefs. About the Palace, all I can say, c
 Is that they know how to find (all alone!) b
 The right land surveyor, but staying way
-Up there could have its advantages you might say.
+Up there could have its advantages you might say."
 
 the error of my assumptions 8
 That I can't be shown
 Said, "I can see your point  be shown b
 The error of my assumptions" b
+#+end_verse
+
+* 35
+<2025-03-22 Sat>
+<2025-03-26 Wed>
+# year tear here cheer guest rest nest chest detest
+#+begin_verse
+The Wirt began to bite his lip in fear,
+And a pang of pity rose in K.'s breast.
+What would it take to give this man good cheer?
+K. rose from his seat; he had done his best 
+To set the Wirt at ease, but now the rest 
+Of his day needed to begin. As he 
+Was leaving, a portrait of a depressed
+Figure of a man on the wall caught the
+Corner of K.'s eye; he approached it so to see.
+#+end_verse
+
+* 36
+<2025-03-26 Wed>
+# din wherein twin been wit fit permit dread dead wed bred
+# span fan van than plan wise size
+#+begin_verse
+The half-length portrait was of a spirit,
+'Bout fifty years of age, with a forehead
+So ponderous and so heavy that it
+Seemed to depress his chin, it could be said,
+Into his chest. His head was sunk so it  
+Was nigh impossible to see his eyes. 
+His hand clutched his thick hair as if unfit
+To support a head that could not arise -
+Like Lazarus from the grave, to its former size.
+#+end_verse
+#+begin_verse
+The half-length portrait there was of a man
+With a forehead so ponderous that it
+Caused his chin to sink and his beard to fan
+Out spreading across his chest 7 
+Seemed to press his chin 5 
+#+end_verse
+#+begin_quote
+As K. was going out he noticed a dark portrait in a dim frame on the wall. He had already (schon)
+observed it from his couch (Lager) by the stove, but from that distance he had not been able to
+distinguish any details and had thought that it was only a plain back to the frame. But it was a
+picture after all, as now appeared, the bust portrait of a man about fifty. His head was sunk so low
+upon his breast that his eyes were scarcely visible, and the weight of the high, heavy forehead and
+the strong hooked nose seemed to have borne the head down. Because of this pose the man's full beard
+was pressed in at the chin and spread out farther down. His left hand was spread out in his thick
+hair but could no longer support his head.
+#+end_quote
+* 37
+#+begin_verse
+To exact of Cupid’s bills the full amount
+At sight, nor would permit you to discount.
+#+end_verse
+#+begin_verse
+K. stood in front of the gloomy picture.a
+"Who is that?" asked K. "Is that the Count?"b
+K. spoke aloud without guile or stricture,a
+Not looking or taking into accountb
+The presence of the Wirt and the amountb
+That could then be heard. The Wirt shook his headc
+"No," he said in a whisper, "Not the Count,b
+But the Palace Governor." The Wirt's dread
+Was palpable in a way that could not be read.
+#+end_verse
+* 38
+<2025-04-22 Tue>
+<2025-04-29 Tue>
+<2025-04-30 Wed>
+#+begin_verse
+"Such a handsome gov'nor in the Palace."
+Said K. "Pity 'bout his brat of a son!"
+The Wirt pulled K. closer without malice
+And whispered, "Schwarzer's full of a fuckton
+of shit! His father's a subgov'nor, one
+Of the lowest at that!" "The devil!"(Der Lump)
+laughed K, but the Wirt didn't join in the fun.
+"Oh, His father is totally high-level!"
+In the paranoia, K began to revel. 
+#+end_verse
+* 39
+<2025-04-30 Wed>
+<2025-05-01 Thu>
+# view do 
+#+begin_verse
+"Here and there you see powerful people!
+How about me? Am I powerful too?"
+The Wirt said, "No you're one of the sheeple."
+"I can tell that you've got me pegged, that's true.
+But, you see, I'm not as honest as you,
+I respect them, I don't care to admit it."
+K. tapped him on his cheek in order to
+Gain his affection and he saw it
+Bring the faintest smile to his face for a visit.
+#+end_verse
+* 40
+<2025-05-01 Thu>
+<2025-05-02 Fri>
+# joy destroy employ enjoy
+#+begin_verse
+The smile transformed the Wirt into a boy,
+What with his soft and almost beardless face.
+How did he find himself in spousal joy
+With an older corn-fed gal in this place?
+K. spied the Wirtin through an open space
+In the kitchen with her elbows sticking
+Out and decided that he need not chase
+The matter any further. Heels clicking,
+K. set out to give the beautiful day a licking.
 #+end_verse
