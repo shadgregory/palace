@@ -35,6 +35,7 @@ The innkeeper's offer to sleep on the floor there.
 #+end_verse
 * 3
 <2024-02-13 Tue>
+<2025-09-10 Wed>
 #+begin_verse
 But soon then K. was roused from his slumber
 By a young man with a thespian's face.
@@ -45,6 +46,7 @@ The young man was dressed in fancy city
 Clothes; his eyes were narrowed; it seemed the case
 The young man was the son of a pretty
 Big deal, and he was not trying to be witty!
+Big deal, 2 he wasn't 5 'bout 6 to show 8 K. 9 some 11 pity!
 #+end_verse
 * 4
 <2024-02-20 Tue>
@@ -1028,6 +1030,82 @@ Sleep, his head was on the old man when K. was riled.
 #+end_verse
 * 62
 <2025-09-01 Mon>
+# weep heap deep creep choice shout spout throughout run out about
+# praying staying saying baying
 #+begin_verse
-A loud voice jolted K. awake
+K. must have fallen into a deep sleep,
+For when he was startled by a loud shout,
+He found himself crumbled up in a heap,
+Against the old man's shoulder and no doubt
+Drooling all o'er King and Country. About
+The wooden tub the children were playing.
+The men had finished and they were now out
+Of their bath, stood dressed, and were now saying
+"Herr Surveyor, we don't want to see you staying!"
+#+end_verse
+* 63
+<2025-09-04 Thu>
+<2025-09-05 Fri>
+# viewed
+#+begin_verse
+The smaller man of the two shook his head,
+"You cannot stay here. Our ways may be rude..."
+"No," interjected K. "Do not be led
+Astray. I don't care to stay more than you'd
+Be able to tolerate. Now I'm good,
+Now that I've rested, I am good to go."
+"I am sure you're curious how we could
+Be so inhospitable, be so low,
+But we don't need guests wandering in from the snow."
+#+end_verse
+* 64
+<2025-09-05 Fri>
+<2025-09-08 Mon>
+<2025-09-11 Thu>
+# der Stock - the stick/cane
+# whom bloom gloom assume fume gloat
+#+begin_verse
+K. was oddly pleased by the man's frankness
+And so began to move about the room,
+Poking 'round with his stick at the grandness
+Of the humble house, his interest in bloom
+Now that his power nap was done. The gloom
+Of the smoke had cleared out and K. took note,
+With some satisfaction, that in the room, 
+He was the tallest dude by far. The quote 
+That comes to mind, the less we have, the more we gloat. 
+#+end_verse
+* 65
+<2025-09-11 Thu>
+<2025-09-12 Fri>
+# jest pest van ban span can clan van scan outran began
+#+begin_verse
+"Of course," said K. "what use is any guest?
+But sometimes they come in handy! Take me
+For instance, the landsurveyor! A pest
+T' you, but a boon to the Palace, a key
+To it's future plans." "If so, then I see
+That you are likely needed," said the man
+Slowly, "But we, we the bauren, are free,
+`Surely, to stick to the rules of our clan."
+"No," said K. "I have to thank you all that I can."
+#+end_verse
+* 66
+** »Ein Mädchen aus dem Schloß.«
+#+begin_verse
+And then, to everyone's surprise, he leapt
+In front of the woman in the armchair.
+A long silky, translucent headscarf swept
+Across the middle of her forehead where
+K.'s gaze fell. The strange woman met the glare
+Of K.'s stare squarely with her tired, blue eyes.
+The infant was now sweetly sleeping there
+On her bosom. "Who are you?" K. then cries.
+"A girl from the Palace." was her only reply.
+#+end_verse
+* 67
+** <2025-09-15 Mon>
+#+begin_verse
+The men, the two of them, clearly had had
+Enough of K.'s foolishness
 #+end_verse
